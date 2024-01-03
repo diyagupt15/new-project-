@@ -274,7 +274,7 @@
             ClientSize = new Size(1636, 1050);
             Controls.Add(panel1);
             Controls.Add(menuStrip1);
-            Cursor = Cursors.No;
+            Cursor = Cursors.Arrow;
             DoubleBuffered = true;
             Font = new Font("Calibri", 11F, FontStyle.Regular, GraphicsUnit.Point);
             MainMenuStrip = menuStrip1;
